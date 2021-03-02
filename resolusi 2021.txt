@@ -4,5 +4,3 @@ Resolusi di tahun 2021
 - Belajar oop php
 - Belajar CI
 - Belajar laravel
-
-
