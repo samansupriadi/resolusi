@@ -1,7 +1,6 @@
 Resolusi di tahun 2021
 - Belajar dasar pemograman
-- Belajar pemograman dasar java
 - Belajar algoritma 
 - Belajar oop php
-- Belajar Laravel
 - Belajar CI
+- Belajar laravel
